@@ -1,4 +1,6 @@
 # Twitter-Cartogram
-Date: May 2015
+May 2014
+
+Author: Yingbin Liang, Yiren Ding
 
 Collect, aggregate, visualize streaming tweets

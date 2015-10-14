@@ -1,2 +1,4 @@
 # Twitter-Cartogram
-collect, aggregate, visualize streaming tweets
+Date: May 2015
+
+Collect, aggregate, visualize streaming tweets

@@ -3,4 +3,4 @@ May 2014
 
 Author: Yingbin Liang, Yiren Ding
 
-Collect, aggregate, visualize streaming tweets
+The goal of this project is to collect, aggregate, and visualize the geo-location of streaming tweets.

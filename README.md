@@ -1,7 +1,7 @@
 # Twitter-Cartogram
 May 2014
 
-Author: Yingbin Liang, Yiren Ding
+@Author: Yingbin Liang, Yiren Ding
 
 <p>The goal of this project is to collect, aggregate, and visualize the <b>geo-location</b> of streaming tweets returned by a certain query string.</p>
 
